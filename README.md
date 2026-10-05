@@ -24,10 +24,14 @@ C# · ASP.NET Core (MVC y Web API) · Entity Framework · SQL Server · Blazor �
 - **Medallo Motors Fest**: boletería con QR y control de acceso para un festival de 7.000 a 8.000 asistentes.
 - Integraciones de Odoo con sistemas .NET para empresas en Colombia.
 
+#### Certificaciones
+
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/mateovergara/foundational-c-sharp-with-microsoft): freeCodeCamp, en alianza con Microsoft (octubre de 2026).
+
 #### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/mateo-vergara-henao-972879365/) · [Upwork](https://www.upwork.com/freelancers/~0173c0937f34098cd2) · [Workana](https://www.workana.com/freelancer/d15ae7e9e376b7ccef714ecc31fd4860)
 
 ---
 
-**English:** Backend .NET developer based in Medellín, Colombia: C#, ASP.NET Core, SQL Server, Odoo integrations and WhatsApp automation with AI. Partner at Kompass Labs since 2020. Open to remote work and freelance projects. Spanish is my native language; my English is basic.
+**English:** Backend .NET developer based in Medellín, Colombia: C#, ASP.NET Core, SQL Server, Odoo integrations and WhatsApp automation with AI. Partner at Kompass Labs since 2020. Certified in Foundational C# with Microsoft (freeCodeCamp). Open to remote work and freelance projects. Spanish is my native language; my English is basic.
