@@ -27,6 +27,7 @@ C# · ASP.NET Core (MVC y Web API) · Entity Framework · SQL Server · Blazor �
 #### Certificaciones
 
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/mateovergara/foundational-c-sharp-with-microsoft): freeCodeCamp, en alianza con Microsoft (octubre de 2026).
+- [EF SET English Certificate](https://cert.efset.org/ZcGVw3): inglés B2 intermedio alto, 59/100 (octubre de 2026).
 
 #### Contacto
 
@@ -34,4 +35,4 @@ C# · ASP.NET Core (MVC y Web API) · Entity Framework · SQL Server · Blazor �
 
 ---
 
-**English:** Backend .NET developer based in Medellín, Colombia: C#, ASP.NET Core, SQL Server, Odoo integrations and WhatsApp automation with AI. Partner at Kompass Labs since 2020. Certified in Foundational C# with Microsoft (freeCodeCamp). Open to remote work and freelance projects. Spanish is my native language; my English is basic.
+**English:** Backend .NET developer based in Medellín, Colombia: C#, ASP.NET Core, SQL Server, Odoo integrations and WhatsApp automation with AI. Partner at Kompass Labs since 2020. Certified in Foundational C# with Microsoft (freeCodeCamp). Open to remote work and freelance projects. Spanish is my native language; English B2 Upper Intermediate (EF SET certified).
